@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,notify,payment,"A verified banking partner with whom the user has an active account is sending a transactional payment and account update. The message is sent outside the user's DND window and contains no suspicious links, ensuring its legitimacy.",0.95,message_0243;message_0102
+msg_091,mute,scam,"The message is a phishing/social engineering attempt asking the user to share a 6-digit login code over a personal message, indicating a potential account compromise or credential harvesting scam.",0.98,message_0238;message_0381
+msg_090,notify,personal,"An individual is reaching out directly regarding a package mix-up at the user's residential building, which requires direct attention.",0.92,message_0340;message_0339
+msg_048,digest,unknown,Classification failed after retries.,0.5,message_0151;message_0152
+msg_040,mute,spam,The message is a chain-letter style spam tagging the user in a family group that the user has already muted.,0.95,message_0136;message_0135
+msg_075,notify,urgent,"The verified ride-booking provider Grab sent a time-sensitive update regarding an active ride booking for today, which requires the user's immediate attention to avoid missing their ride.",0.95,message_0206;message_0205
+msg_005,digest,unknown,Classification failed after retries.,0.5,message_0065;message_0113
+msg_104,notify,personal,The user receives a direct personal message from a known contact coordinating a same-day pickup with a clear 6 PM deadline.,0.95,message_0232;message_0383
+msg_069,digest,unknown,Classification failed after retries. Message is heavily forwarded.,0.5,message_0193;message_0177
+msg_107,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0235;message_0056
+msg_070,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0213;message_0195
+msg_003,digest,unknown,Classification failed after retries.,0.5,message_0400;message_0031
+msg_099,digest,unknown,Classification failed after retries.,0.5,message_0227;message_0055
+msg_008,digest,unknown,Classification failed after retries.,0.5,message_0296;message_0072
+msg_092,digest,unknown,Classification failed after retries.,0.5,message_0346;message_0345
+msg_060,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0284;message_0176
+msg_004,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0245;message_0005
+msg_030,digest,unknown,Classification failed after retries.,0.5,message_0115;message_0335
+msg_045,digest,unknown,Classification failed after retries.,0.5,message_0145;message_0146
+msg_052,mute,spam,Business has many recent user reports.,0.95,message_0207;message_0159
+msg_009,digest,unknown,Classification failed after retries.,0.5,message_0074;message_0073
+msg_071,digest,unknown,Classification failed after retries.,0.5,message_0197;message_0198
+msg_016,digest,unknown,Classification failed after retries.,0.5,message_0024;message_0201
+msg_065,digest,unknown,Classification failed after retries.,0.5,message_0261;message_0260
+msg_038,digest,unknown,Classification failed after retries. Message is heavily forwarded.,0.5,message_0131;message_0132
+msg_086,digest,unknown,Classification failed after retries.,0.5,message_0222;message_0248
+msg_014,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0258;message_0018
+msg_094,digest,unknown,Classification failed after retries.,0.5,message_0357;message_0048
+msg_029,digest,unknown,Classification failed after retries.,0.5,message_0113;message_0332
+msg_105,digest,unknown,Classification failed after retries.,0.5,message_0373;message_0233
+msg_002,digest,unknown,Classification failed after retries.,0.5,message_0266;message_0003
+msg_010,digest,unknown,Classification failed after retries.,0.5,message_0242;message_0011
+msg_078,digest,unknown,Classification failed after retries. Message is heavily forwarded.,0.5,message_0211;message_0212
+msg_013,digest,unknown,Classification failed after retries.,0.5,message_0081;message_0082
+msg_018,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0026;message_0091
+msg_044,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0143;message_0144
+msg_032,digest,unknown,Classification failed after retries.,0.5,message_0119;message_0285
+msg_106,digest,unknown,Classification failed after retries.,0.5,message_0376;message_0234
+msg_006,digest,unknown,Classification failed after retries.,0.5,message_0044;message_0029
+msg_109,digest,unknown,Classification failed after retries.,0.5,message_0151;message_0237
+msg_108,mute,spam,Business has many recent user reports.,0.95,message_0094;message_0093
+msg_019,mute,spam,Business has many recent user reports.,0.95,message_0277;message_0094
+msg_088,digest,unknown,Classification failed after retries.,0.5,message_0116;message_0115
+msg_056,digest,unknown,Classification failed after retries.,0.5,message_0168;message_0167
+msg_027,digest,unknown,Classification failed after retries.,0.5,message_0272;message_0033
+msg_050,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0279;message_0278
+msg_083,digest,unknown,Classification failed after retries.,0.5,message_0219;message_0325
+msg_063,digest,unknown,Classification failed after retries.,0.5,message_0182;message_0181
+msg_033,digest,unknown,Classification failed after retries.,0.5,message_0121;message_0122
+msg_061,digest,unknown,Classification failed after retries.,0.5,message_0042;message_0193
+msg_020,digest,unknown,Classification failed after retries.,0.5,message_0096;message_0095
+msg_017,digest,unknown,Classification failed after retries.,0.5,message_0090;message_0089
+msg_058,digest,unknown,Classification failed after retries. Message is heavily forwarded.,0.5,message_0039;message_0241
+msg_026,mute,spam,Business has many recent user reports.,0.95,message_0032;message_0107
+msg_047,digest,unknown,Classification failed after retries.,0.5,message_0149;message_0150
+msg_046,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0148;message_0147
+msg_042,digest,unknown,Classification failed after retries.,0.5,message_0140;message_0139
+msg_079,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0053;message_0213
+msg_098,digest,unknown,Classification failed after retries.,0.5,message_0359;message_0226
+msg_037,digest,unknown,Classification failed after retries.,0.5,message_0216;message_0190
+msg_007,digest,unknown,Classification failed after retries.,0.5,message_0069;message_0070
+msg_085,mute,spam,Business has many recent user reports.,0.95,message_0221;message_0264
+msg_001,digest,unknown,Classification failed after retries.,0.5,message_0058;message_0240
+msg_021,digest,unknown,Classification failed after retries.,0.5,message_0098;message_0068
+msg_028,digest,unknown,Classification failed after retries.,0.5,message_0034;message_0112
+msg_012,digest,unknown,Classification failed after retries.,0.5,message_0079;message_0247
+msg_064,digest,unknown,Classification failed after retries.,0.5,message_0024;message_0201
+msg_103,digest,unknown,Classification failed after retries.,0.5,message_0231;message_0382
+msg_031,digest,unknown,Classification failed after retries.,0.5,message_0117;message_0118
+msg_057,digest,unknown,Classification failed after retries.,0.5,message_0003;message_0266
+msg_087,digest,unknown,Classification failed after retries.,0.5,message_0391;message_0203
+msg_067,digest,unknown,Classification failed after retries.,0.5,message_0098;message_0068
+msg_039,digest,unknown,Classification failed after retries.,0.5,message_0255;message_0037
+msg_082,digest,unknown,Classification failed after retries.,0.5,message_0397;message_0218
+msg_066,digest,unknown,Classification failed after retries.,0.5,message_0402;message_0257
+msg_049,digest,unknown,Classification failed after retries.,0.5,message_0154;message_0291
+msg_015,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0199;message_0085
+msg_051,digest,unknown,Classification failed after retries.,0.5,message_0257;message_0402
+msg_097,digest,unknown,Classification failed after retries.,0.5,message_0225;message_0054
+msg_089,digest,unknown,Classification failed after retries.,0.5,message_0301;message_0300
+msg_053,digest,unknown,Classification failed after retries.,0.5,message_0253;message_0161
+msg_059,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0174;message_0173
+msg_024,digest,unknown,Classification failed after retries.,0.5,message_0257;message_0402
+msg_072,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0199;message_0085
+msg_036,mute,spam,Business has many recent user reports.,0.95,message_0283;message_0127
+msg_076,mute,spam,Business has many recent user reports.,0.95,message_0207;message_0159
+msg_055,digest,unknown,Classification failed after retries.,0.5,message_0166;message_0165
+msg_102,digest,unknown,Classification failed after retries.,0.5,message_0371;message_0230
+msg_080,digest,unknown,Classification failed after retries.,0.5,message_0097;message_0067
+msg_093,mute,scam,Message contains suspicious scam-like keywords.,0.97,message_0398;message_0349
+msg_034,digest,unknown,Classification failed after retries. Message is heavily forwarded.,0.5,message_0171;message_0123
+msg_035,digest,unknown,Classification failed after retries.,0.5,message_0281;message_0125
+msg_101,digest,unknown,Classification failed after retries.,0.5,message_0370;message_0229
+msg_041,digest,unknown,Classification failed after retries.,0.5,message_0137;message_0138
+msg_011,digest,unknown,Classification failed after retries.,0.5,message_0171;message_0123
+msg_110,digest,unknown,Classification failed after retries.,0.5,message_0238;message_0381
+msg_095,digest,unknown,Classification failed after retries.,0.5,message_0024;message_0201
+msg_074,digest,unknown,Classification failed after retries.,0.5,message_0203;message_0204
+msg_073,digest,unknown,Classification failed after retries.,0.5,message_0202;message_0184
+msg_054,digest,unknown,Classification failed after retries.,0.5,message_0163;message_0164
+msg_068,digest,unknown,Classification failed after retries.,0.5,message_0191;message_0192
+msg_100,digest,unknown,Classification failed after retries.,0.5,message_0362;message_0228
+msg_062,digest,unknown,Classification failed after retries.,0.5,message_0043;message_0097
+msg_096,digest,unknown,Classification failed after retries.,0.5,message_0405;message_0355
+msg_043,digest,unknown,Classification failed after retries. Message is heavily forwarded.,0.5,message_0098;message_0068
+msg_077,digest,unknown,Classification failed after retries.,0.5,message_0051;message_0255
+msg_081,digest,unknown,Classification failed after retries.,0.5,message_0217;message_0014
+msg_025,digest,unknown,Classification failed after retries.,0.5,message_0239;message_0004
+msg_084,digest,unknown,Classification failed after retries.,0.5,message_0391;message_0220
+msg_022,digest,unknown,Classification failed after retries.,0.5,message_0099;message_0100
